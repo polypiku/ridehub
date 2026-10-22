@@ -4,7 +4,7 @@ A management system for delivery riders, with a **Rider App** and an **Admin Pan
 
 ระบบจัดการไรเดอร์และแอดมินแบบครบวงจร — ไรเดอร์รับงาน ติดตามรายได้ และติดต่อแอดมินได้ในที่เดียว
 
-**Live demo:** https://polypiku09-crypto.github.io/ridehub/
+**Live demo:** https://polypiku.github.io/ridehub/
 
 ![RideHub home](screenshots/home.png)
 
@@ -51,7 +51,7 @@ A management system for delivery riders, with a **Rider App** and an **Admin Pan
 No build step is needed.
 
 ```bash
-git clone https://github.com/polypiku09-crypto/ridehub.git
+git clone https://github.com/polypiku/ridehub.git
 cd ridehub
 # open index.html in a browser, or serve the folder:
 npx serve .
