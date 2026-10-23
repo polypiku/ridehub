@@ -42,9 +42,13 @@ A management system for delivery riders, with a **Rider App** and an **Admin Pan
 
 ## Screenshots
 
-| Rider App | Admin Panel |
-|-----------|-------------|
-| ![Rider](screenshots/rider.png) | ![Admin](screenshots/admin.png) |
+**Admin dashboard**
+
+![Admin dashboard](screenshots/admin.png)
+
+| Rider App login | Admin login |
+|-----------------|-------------|
+| <img src="screenshots/rider.png" width="300" /> | <img src="screenshots/admin-login.png" width="400" /> |
 
 ## Run Locally
 
